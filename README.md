@@ -35,7 +35,7 @@ For example
 (21, 22)  # a meeting from 10:30 am -- 11 am
 ```
 
-Write a function called condense_meeting_times() that takes a list of meeting time ranges and returns a list of condensed ranges. For example,given [(20, 22), (21, 22), (25, 30)] it will output [(20,22), (25,30)]
+Write a function called `condense_meeting_times()` that takes a list of meeting time ranges and returns a list of condensed ranges. For example,given `[(20, 22), (21, 22), (25, 30)]` it will output `[(20,22), (25,30)]`
 
 Do not assume the meetings are in order. The meeting times are coming from multiple teams.
 
