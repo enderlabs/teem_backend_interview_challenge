@@ -5,12 +5,12 @@ Clone and submit your answers to the following questions with your Teem backend 
 The following problems are reviewed for
 
  * runability,
- ** we should be able to run your code with minimal effort,
- ** you should probably provide a readme,
+   * we should be able to run your code with minimal effort,
+   * you should probably provide a readme,
  * completeness (does it answer the given question),
  * readability,
- ** this includes comments,
- ** and PEP8 considerations,
+   * this includes comments,
+   * and PEP8 considerations,
  * edge cases covered.
 
 Solutions must be written in Python, use any version of Python higher than 2.7. These solutions should be written in a way that we could import and use them in other modules as well as being able to run them from the command line.
